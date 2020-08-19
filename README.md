@@ -1,6 +1,6 @@
 # phage-antibiotics
 
-## This repositery contains all code written for "The Impact of Pf Bacteriophages on the Fitness of Pseudomonas aeruginosa: A Mathematical Modeling Approach" 
+This repositery contains all code written for "The Impact of Pf Bacteriophages on the Fitness of Pseudomonas aeruginosa: A Mathematical Modeling Approach" 
 
 ### There are three main files, which run the analysis and generate all figures in the paper and Supplementary Material:
 
