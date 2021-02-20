@@ -2,17 +2,11 @@
 
 This repositery contains all code written for "Filamentous bacteriophages and the competitive interaction between Pseudomonas aeruginosa strains under antibiotic treatment: a modelling study" 
 
-### There are three main files, which run the analysis and generate all figures in the paper and Supplementary Material:
+### There are seven main files, which run the analysis and generate all figures in the paper (Figure 1-6) and Supplementary Material (Figure S1)
 
-  'main_graph.m' - generates figures 2-5 in the main text
-  
-  'sensitivity.m' - generates figures S1 and S2 in the Supplementary Material
-  
-  'sensitivity_seq.m' - generates figure S3 in the Supplementary Material
+The code for Figure 5 and 6 can take a more than an hour to run on a laptop. 
   
 ### In order to run the analysis, the additional files are required in the same folder:
-
-  'growthRate.m' 
   
   'compareRegimens.m'
   
@@ -21,6 +15,10 @@ This repositery contains all code written for "Filamentous bacteriophages and th
   'competeRegimens.m'
   
   'EmaxcompeteNoResist.m' 
+  
+  'fc_var_par_median.m'
+  
+  'PRCC_function.m'
   
  ### For proper figure formatting, the following scripts should be downloaded from File Exchange:
  
