@@ -4,7 +4,7 @@ This repositery contains all code written for "Filamentous bacteriophages and th
 
 ### There are seven main files, which run the analysis and generate all figures in the paper (Figure 1-6) and Supplementary Material (Figure S1)
 
-The code for Figure 5 and 6 can take a more than an hour to run on a laptop. 
+The code for Figure 5 and 6 can take more than an hour to run on a laptop. 
   
 ### In order to run the analysis, the additional files are required in the same folder:
   
